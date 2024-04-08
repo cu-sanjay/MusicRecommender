@@ -11,9 +11,9 @@ st.set_page_config(
     page_title='Music Recommendation System', 
     page_icon='logo.png',
     menu_items={
-    'Get Help': 'Dumboo Test By Yourself.',
+    'Get Help': None,
     'Report a bug': 'https://github.com/cu-sanjay/MusicRecommender/issues',
-    'About': "### Developed by Sanjay Choudhary ❤️\n#### Music Data sourced from [Kaggle](https://www.kaggle.com/datasets/imuhammad/audio-features-and-lyrics-of-spotify-songs)"
+    'About': f"### Developed by Sanjay Choudhary ❤️\n#### Music Data sourced from [Kaggle](https://www.kaggle.com/datasets/imuhammad/audio-features-and-lyrics-of-spotify-songs)"
     }
 )
 with open("cu_logo.jpg", "rb") as f:
