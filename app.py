@@ -11,9 +11,9 @@ st.set_page_config(
     page_title='Music Recommendation System', 
     page_icon='logo.png',
     menu_items={
-        'Get Help': None,
-        'Report a bug': 'https://github.com/N-Shar-ma/Customizable-Music-Recommendation-System/issues',
-        'About': f"### Project made as part of Microsoft Engage'22!\n#### Music Data sourced from [Kaggle]({dataset_url})"
+        'Get Help': 'Dumboo Test By Yourself.',
+        'Report a bug': 'https://github.com/cu-sanjay/MusicRecommender/issues',
+        'About': f"### Developed by Sanjay Choudhary ❤️\n#### Music Data sourced from [Kaggle]({dataset_url})"
     }
 )
 with open("cu_logo.jpg", "rb") as f:
